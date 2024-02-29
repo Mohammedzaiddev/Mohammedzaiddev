@@ -1,4 +1,4 @@
--👋 Hi, I’m @Mohammedzaiddev!
+-👋 Hi, I’m @Mohammedzaiddev!.
 -👀 I’m interested in software development, particularly in Android development and Desktop development.
 -🌱 I’m currently learning advanced algorithms and data structures to enhance my problem-solving skills.
 -💞️ I’m looking to collaborate on open-source projects related to Mobile Apps,Desktop Software,Websites.
